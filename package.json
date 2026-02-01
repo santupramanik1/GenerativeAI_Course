@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "generativeai",
+  "version": "1.0.0",
+  "main": "LLM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.39.0",
+    "readline-sync": "^1.4.10"
+  }
+}
